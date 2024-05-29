@@ -9,4 +9,3 @@ Boostrap
 <br><br><br>
  <h1>Live Demo</h1> 
  <a href="https://mrunalis-website-spotify-clone.netlify.app/">Visit Here</a>
-![Capture](https://github.com/MrunaliChavan2002/Spotify-Clone/assets/131576753/60badfed-8a74-4552-a422-c7897e8ba709)
