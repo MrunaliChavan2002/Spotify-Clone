@@ -6,6 +6,6 @@ This repository contains the user interface (UI) for a Spotify Web Player. It's 
 Html<br>
 CSS<br>
 Boostrap
-<br>
+
  <h1>Live Demo</h1> 
  <a href="https://mrunalis-website-spotify-clone.netlify.app/">Visit Here</a>
