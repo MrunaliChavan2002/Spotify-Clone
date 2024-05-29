@@ -2,7 +2,7 @@
 <h1>About</h1>
 This repository contains the user interface (UI) for a Spotify Web Player. It's a static representation of the Spotify player without backend functionality.
   
-<h1>Technologies</h1>
+<h1>Technologies Used</h1>
 Html<br>
 CSS<br>
 Boostrap
